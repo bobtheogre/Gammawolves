@@ -1,0 +1,76 @@
+{
+    "Bolschev":{
+        "Pilots":{
+            "veterens":"0+",
+            "trained":"2+",
+            "rookie": "1+"
+        },
+        "frames":{
+            "heavy": "1+",
+            "medium": "1+",
+            "light": "0-1"
+        },
+        "Propulsion":{[
+            "Tracked",
+            "Multi-Limbed",
+            "Bipedal"
+        ]},
+        "Quirk"{
+            "Title": "Overloading",
+            "Effect": "Once per game Round, during either the Manoeuvring or Gunnery Phase, a
+            Bolshev Pilot may Stress their Reactor even if it is already at maximum Stress. If they do so,
+            the Frame takes a single point of Damage to the body as its cooling systems fail and internal
+            components suffer damage."
+        }
+    },
+    "The Burg":{
+        "Pilots":{
+            "veterens":"0-1",
+            "trained":"0+",
+            "rookie": "0-1"
+        },
+        "frames":{
+            "heavy": "0-2",
+            "medium": "0-4",
+            "light": "0-2"
+        },
+        "Propulsion":{[
+            "Tracked",
+            "Multi-Limbed",
+            "Bipedal",
+            "Jet"
+        ]},
+        "Quirk"{
+            "Title": "Humanity 2.0",
+            "Effect": "The enhanced physiology of The Burg’s Pilots allows them to easily process
+            the toxic soup that makes up the atmosphere in the Sea of Destruction. They do not take
+            Damage during the Cool-Down Phase when their Frame is Critically Damaged in the body
+            location, but they do suffer Injuries from additional Damage to their Frame during an
+            Engagement."
+        }
+    },
+    "Bolschev":{
+        "Pilots":{
+            "veterens":"0+",
+            "trained":"2+",
+            "rookie": "1+"
+        },
+        "frames":{
+            "heavy": "1+",
+            "medium": "1+",
+            "light": "0-1"
+        },
+        "Propulsion":{[
+            "Tracked",
+            "Multi-Limbed",
+            "Bipedal"
+        ]},
+        "Quirk"{
+            "Title": "Overloading",
+            "Effect": "Once per game Round, during either the Manoeuvring or Gunnery Phase, a
+            Bolshev Pilot may Stress their Reactor even if it is already at maximum Stress. If they do so,
+            the Frame takes a single point of Damage to the body as its cooling systems fail and internal
+            components suffer damage."
+        }
+    },
+}
